@@ -12,7 +12,7 @@
 # |       |    |   || | |   |
 # |______|     |___||_|  |__| . . . 
 #
-# dfourn.pl
+# dfourn.com
 
 import sys #meh (lowercase) 
 import time #MEH
